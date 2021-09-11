@@ -13,7 +13,7 @@ You should have Imagick and Ghostscript installed. See issues regarding Ghostscr
 
 ## installation
 
-1.Use composer install
+1.Use composer install <br>
 2.set path ghostscript on UploadController.php: 
 //path to ghostscript installer
 Ghostscript::setGsPath("C:\Program Files\gs\gs9.54.0\bin\gswin64c.exe");
