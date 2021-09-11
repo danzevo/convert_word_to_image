@@ -10,3 +10,7 @@
 ## Requirements
 
 You should have Imagick and Ghostscript installed. See issues regarding Ghostscript.
+
+## installation
+
+Use composer install
